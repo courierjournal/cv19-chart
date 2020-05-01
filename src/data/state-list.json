@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "fips": "01",
+    "population": 4903185,
+    "borders": ["12", "13", "28", "47"]
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "fips": "02",
+    "population": 731545,
+    "borders": []
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "fips": "04",
+    "population": 7278717,
+    "borders": ["06", "08", "32", "35", "49"]
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "fips": "05",
+    "population": 3017804,
+    "borders": ["22", "28", "29", "40", "47", "48"]
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "fips": "06",
+    "population": 39512223,
+    "borders": ["04", "32", "41"]
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "fips": "08",
+    "population": 5758736,
+    "borders": ["04", "20", "31", "35", "40", "49", "56"]
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "fips": "09",
+    "population": 3565287,
+    "borders": ["25", "36", "44"]
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "fips": 10,
+    "population": 973764,
+    "borders": ["24", "34", "42"]
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "fips": 12,
+    "population": 21477737,
+    "borders": ["01", "13"]
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "fips": 13,
+    "population": 10617423,
+    "borders": ["01", "12", "37", "45", "47"]
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "fips": 15,
+    "population": 1415872,
+    "borders": []
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "fips": 16,
+    "population": 1787065,
+    "borders": ["30", "32", "41", "49", "53", "56"]
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "fips": 17,
+    "population": 12671821,
+    "borders": ["18", "19", "26", "21", "29", "55"]
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "fips": 18,
+    "population": 6732219,
+    "borders": ["17", "21", "26", "39"]
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "fips": 19,
+    "population": 3155070,
+    "borders": ["17", "27", "29", "31", "46", "55"]
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "fips": 20,
+    "population": 2913314,
+    "borders": ["08", "29", "31", "40"]
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "fips": 21,
+    "population": 4467673,
+    "borders": ["17", "18", "29", "39", "47", "51", "54"]
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "fips": 22,
+    "population": 4648794,
+    "borders": ["05", "28", "48"]
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "fips": 23,
+    "population": 1344212,
+    "borders": ["33"]
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "fips": 24,
+    "population": 6045680,
+    "borders": ["10", "42", "51", "54"]
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "fips": 25,
+    "population": 6892503,
+    "borders": ["09", "33", "36", "44", "50"]
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "fips": 26,
+    "population": 9986857,
+    "borders": ["17", "18", "27", "39", "55"]
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "fips": 27,
+    "population": 5639632,
+    "borders": ["19", "26", "38", "46", "55"]
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "fips": 28,
+    "population": 2976149,
+    "borders": ["01", "05", "22", "47"]
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "fips": 29,
+    "population": 6137428,
+    "borders": ["05", "17", "19", "20", "21", "31", "40", "47"]
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "fips": 30,
+    "population": 1068778,
+    "borders": ["16", "38", "46", "56"]
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "fips": 31,
+    "population": 1934408,
+    "borders": ["08", "19", "20", "29", "46", "56"]
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "fips": 32,
+    "population": 3080156,
+    "borders": ["04", "06", "16", "41", "49"]
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "fips": 33,
+    "population": 1359711,
+    "borders": ["23", "25", "50"]
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "fips": 34,
+    "population": 8882190,
+    "borders": ["10", "36", "42"]
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "fips": 35,
+    "population": 2096829,
+    "borders": ["04", "08", "40", "48", "49"]
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "fips": 36,
+    "population": 19453561,
+    "borders": ["09", "25", "34", "42", "44", "50"]
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "fips": 37,
+    "population": 10488084,
+    "borders": ["13", "45", "47", "51"]
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "fips": 38,
+    "population": 762062,
+    "borders": ["27", "30", "46"]
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "fips": 39,
+    "population": 11689100,
+    "borders": ["18", "21", "26", "42", "54"]
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "fips": 40,
+    "population": 3956971,
+    "borders": ["05", "08", "20", "29", "35", "48"]
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "fips": "41",
+    "population": 4217737,
+    "borders": ["06", "16", "32", "53"]
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "fips": "42",
+    "population": 12801989,
+    "borders": ["10", "24", "34", "36", "39", "54"]
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "fips": "44",
+    "population": 1059361,
+    "borders": ["09", "25", "36"]
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "fips": "45",
+    "population": 5148714,
+    "borders": ["13", "37"]
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "fips": "46",
+    "population": 884659,
+    "borders": ["19", "27", "30", "31", "38", "56"]
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "fips": "47",
+    "population": 6829174,
+    "borders": ["01", "05", "13", "21", "28", "29", "37", "51"]
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "fips": "48",
+    "population": 28995881,
+    "borders": ["05", "22", "35", "40"]
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "fips": "49",
+    "population": 3205958,
+    "borders": ["04", "08", "16", "32", "35", "56"]
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "fips": "50",
+    "population": 623989,
+    "borders": ["25", "33", "36"]
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "fips": "51",
+    "population": 8535519,
+    "borders": ["21", "24", "37", "47", "54"]
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "fips": "53",
+    "population": 7614893,
+    "borders": ["16", "41"]
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "fips": "54",
+    "population": 1792147,
+    "borders": ["21", "24", "39", "42", "51"]
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "fips": "55",
+    "population": 5822434,
+    "borders": ["17", "19", "26", "27"]
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "fips": "56",
+    "population": 578759,
+    "borders": ["08", "16", "30", "31", "46", "49"]
+  }
+]
